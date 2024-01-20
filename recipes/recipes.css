@@ -1,0 +1,17 @@
+* {
+    background-color: orange;
+}
+
+.main-heading{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul , ol , li{
+    background-color: beige;
+}
+
+.sub-heading{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
