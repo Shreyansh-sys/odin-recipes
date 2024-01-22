@@ -1,10 +1,28 @@
-.main-heading{
+.heading-container{
     background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.main-heading{
     font-size: 60px;
     font-family: "Verdana", sans-serif;
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+.list{
+    background-color: beige;
+    border: 1px solid beige;
+    border-radius: 5px;
 }
 
 ol {
     font-size: 45px;
-    background-color: beige;
+}
+
+li{
+    margin: 8px;
 }
